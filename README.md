@@ -38,7 +38,7 @@ Working with speech data.
 
 Example 1             |  Example 2
 :-------------------------:|:-------------------------:
-![ex-out_speech-silence0.png](ex-out_speech-silence0.png) | ![ex-out_speech-silence1.png](ex-out_speech-silence1.png)
+!['ex-out_speech-silence0.png'](ex-out_speech-silence0.png) | !['ex-out_speech-silence1.png'](ex-out_speech-silence1.png)
 
 
 
