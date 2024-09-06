@@ -36,9 +36,8 @@ Working with speech data.
 
 <p align="left">
  <img width="200px" src="ex-out_speech-silence0.png" alt="qr"/>
-</p>
 
-<p align="right">
+align="right"
  <img width="200px" src="ex-out_speech-silence0.png" alt="qr"/>
 </p>
 
