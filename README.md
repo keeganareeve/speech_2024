@@ -30,7 +30,11 @@ Working with speech data.
 
 ## Scripts & Notebooks
 
+1. Speech-Silence
+
 **speech-silence0-pub.ipynb**: first version of (public) notebook for sectioning speech and non-speech intervals (*silence*/*non-speech* serves as catch-all terms for low-power points contrastive with speech).
+
+**ex-out_speech-silence0.png**: example output of **speech-silence0-pub.ipynb**
 
 
 
