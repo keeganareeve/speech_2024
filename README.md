@@ -10,16 +10,16 @@ Working with speech data.
    Preferably, I'd like a single stream to handle any particular language for this initial bit of preprocessing.
    Outputs a PRAAT TextGrid with 'speech' and '' (silence) intervals.
    
-3. (Adding) Transcription
+2. (Adding) Transcription
    
    Sectioning up written transcription of audio into these intervals (including creating corresponding PRAAT TextGrid of its own).
    Automatic transcription with a LLM or other pretrained model serves as an alternative option.
    
-5. Forced Alignment
+3. Forced Alignment
    
    Forced Alignment of phones and words, ending up with csv files with intervals for both.
    
-7. Features / Patterns
+4. Features / Patterns
    
    Building systems to experiment with extracting different acoustic features and evaluating importance, primarily for prosody.
    Intensity,energy,power,pitch,amplitude. Likely will use parselmouth along with method to make it continuous.
