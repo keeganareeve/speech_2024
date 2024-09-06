@@ -34,13 +34,11 @@ Working with speech data.
 
 **speech-silence0-pub.ipynb**: first version of (public) notebook for sectioning speech and non-speech intervals (*silence*/*non-speech* serves as catch-all terms for low-power points contrastive with speech).
 
-
+**ex-out_speech-silencex.png** where x=num: example outputs of **speech-silence0-pub.ipynb**
 
 Example 1             |  Example 2
 :-------------------------:|:-------------------------:
 ![ex-out_speech-silence0.png](ex-out_speech-silence0.png) | ![ex-out_speech-silence1.png](ex-out_speech-silence1.png)
-
-**ex-out_speech-silence0.png**: example output of **speech-silence0-pub.ipynb**
 
 
 
