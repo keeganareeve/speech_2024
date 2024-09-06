@@ -39,7 +39,7 @@ Working with speech data.
 </p>
 
 <p align="right">
- <img width="200px" src="speech-silence0-pub.ipynb" alt="qr"/>
+ <img width="200px" src="ex-out_speech-silence0.png" alt="qr"/>
 </p>
 
 **ex-out_speech-silence0.png**: example output of **speech-silence0-pub.ipynb**
