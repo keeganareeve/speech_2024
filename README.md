@@ -38,11 +38,7 @@ Working with speech data.
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-!<p align="center">
- <img width="200px" src="ex-out_speech-silence0.png" alt="qr"/>
- </p> |  !<p align="center">
- <img width="200px" src="ex-out_speech-silence1.png" alt="qr"/>
- </p>
+![ex-out_speech-silence0.png](ex-out_speech-silence0.png) | ![ex-out_speech-silence1.png](ex-out_speech-silence1.png)
 
 **ex-out_speech-silence0.png**: example output of **speech-silence0-pub.ipynb**
 
