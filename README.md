@@ -36,6 +36,8 @@ Working with speech data.
 
 **ex-out_speech-silencex.png** where x=num: example outputs of **speech-silence0-pub.ipynb**
 
+(In these examples, audacity was used to preprocess the audio files with settings of either 12 and 6.00 db for Noise Reduction level and Sensitivity respectively, or 34 and 1.50 db; however, this is variable to the peculiarities of the audio itself.)
+
 Figure 1             |  Figure 2
 :-------------------------:|:-------------------------:
 !['ex-out_speech-silence0.png'](ex-out_speech-silence0.png) | !['ex-out_speech-silence1.png'](ex-out_speech-silence1.png)
