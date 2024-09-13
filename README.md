@@ -36,13 +36,14 @@ Working with speech data.
 
 **ex-out_speech-silencex.png** where x=num: example outputs of **speech-silence0-pub.ipynb**
 
-Example 1             |  Example 2
+Figure 1             |  Figure 2
 :-------------------------:|:-------------------------:
 !['ex-out_speech-silence0.png'](ex-out_speech-silence0.png) | !['ex-out_speech-silence1.png'](ex-out_speech-silence1.png)
 
+Figures 3 & 4 are visualized outputs where min_interval parameter for the filter_intervals() function is set to 0.5 seconds and the tick-mark interval is set to 5 seconds:
 
-
-
-
+Figure 3             |  Figure 4
+:-------------------------:|:-------------------------:
+!['ex-out_speech-silence3.png'](ex-out_speech-silence3.png) | !['ex-out_speech-silence4.png'](ex-out_speech-silence4.png)
 
 
