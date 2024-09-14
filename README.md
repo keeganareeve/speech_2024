@@ -34,7 +34,7 @@ Working with speech data.
 
 **speech-silence0-pub.ipynb**: first version of (public) notebook for sectioning speech and non-speech intervals (*silence*/*non-speech* serves as catch-all terms for low-power points contrastive with speech).
 
-**ex-out_speech-silencex.png** where x=num: example outputs of **speech-silence0-pub.ipynb**
+**ex-out_speech-silencex.png** where x=num; example outputs of **speech-silence0-pub.ipynb** below.
 
 (In these examples, audacity was used to preprocess the audio files with settings of either 12 and 6.00 db for Noise Reduction level and Sensitivity respectively, or 34 and 1.50 db; however, this is variable to the peculiarities of the audio itself.)
 
@@ -47,5 +47,7 @@ Figures 3 & 4 are visualized outputs where min_interval parameter for the filter
 Figure 3             |  Figure 4
 :-------------------------:|:-------------------------:
 !['ex-out_speech-silence3.png'](ex-out_speech-silence3.png) | !['ex-out_speech-silence4.png'](ex-out_speech-silence4.png)
+
+On this same topic, **speech-silence0-pub.py** does the same thing as the notebook except it results in a PRAAT TextGrid file with intervals instead of a visualization. The packages needed for this are also fewer in number.
 
 
