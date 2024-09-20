@@ -48,6 +48,6 @@ Figure 3             |  Figure 4
 :-------------------------:|:-------------------------:
 !['ex-out_speech-silence3.png'](ex-out_speech-silence3.png) | !['ex-out_speech-silence4.png'](ex-out_speech-silence4.png)
 
-On this same topic, **speech-silence0-pub.py** does the same thing as the notebook except it results in a PRAAT TextGrid file with intervals instead of a visualization. The packages needed for this are also fewer in number.
+On this same topic, **speech-silencex-pub.py** (where 'x' is again version num) does the same thing as the notebook except it results in a PRAAT TextGrid file with intervals instead of a visualization. The packages needed for this are also fewer in number.
 
 
